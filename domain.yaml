@@ -4,9 +4,9 @@ metadata:
   name: tools
   description: Everything related to tools
   links:
-    - url: http://example.com/domain/artists/
+    - url: http://example.com/tools/artists/
       title: Domain Readme
-    - url: http://example.com/domains/artists/dashboard
+    - url: http://example.com/tools/artists/dashboard
       title: Domain Metrics Dashboard
       icon: dashboard
 spec:
