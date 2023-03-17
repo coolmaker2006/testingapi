@@ -13,3 +13,7 @@ spec:
   type: website
   lifecycle: production
   owner: user:guest
+  dependsOn:
+    - system:example
+  providesApis:
+    - rest-api
