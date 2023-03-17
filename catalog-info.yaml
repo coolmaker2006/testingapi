@@ -17,3 +17,5 @@ spec:
   lifecycle: production
   owner: user:guest
   system: public-distributed-app
+  providesApis:
+    - testing-api
