@@ -7,5 +7,6 @@ spec:
   type: openapi
   lifecycle: production
   owner: user:guest
+  system: public-distributed-app
   definition:
-    $json: https://apiwebtdmint.azurewebsites.net/swagger/v1/swagger.json
+    $text: https://apiwebtdmint.azurewebsites.net/swagger/v1/swagger.json
