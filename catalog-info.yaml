@@ -13,7 +13,7 @@ metadata:
   tags:
     - dotnet
 spec:
-  type: website
+  type: service
   lifecycle: production
   owner: user:guest
   system: public-distributed-app
