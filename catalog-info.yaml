@@ -14,7 +14,7 @@ spec:
   lifecycle: production
   owner: user:guest
   dependsOn:
-    - system:example
+    - service:example-grpc-api
   providesApis:
     - rest-api
   definition:
