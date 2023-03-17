@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: public-distributed-app
+  description: The System
+spec:
+  owner: Team-A
+  domain: music
