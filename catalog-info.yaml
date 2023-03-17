@@ -4,7 +4,8 @@ metadata:
   name: testingapi
   annotations:
     github.com/project-slug: coolmaker2006/testingapi
+    backstage.io/techdocs-ref: value
 spec:
-  type: other
-  lifecycle: unknown
-  owner: guests
+  type: website
+  lifecycle: production
+  owner: user:guest
