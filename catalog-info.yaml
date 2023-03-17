@@ -2,6 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: testingapi
+  links:
+      - url: https://dashboard.example.com
+        title: My Dashboard
+        icon: dashboard  
   annotations:
     github.com/project-slug: coolmaker2006/testingapi
     backstage.io/techdocs-ref: value
