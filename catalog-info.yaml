@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: testingapi
+  annotations:
+    github.com/project-slug: coolmaker2006/testingapi
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
