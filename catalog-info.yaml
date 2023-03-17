@@ -17,3 +17,5 @@ spec:
     - system:example
   providesApis:
     - rest-api
+  definition:
+    $text: https://apiwebtdmint.azurewebsites.net/swagger/v1/swagger.json
