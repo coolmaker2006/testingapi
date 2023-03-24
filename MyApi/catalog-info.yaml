@@ -9,7 +9,7 @@ metadata:
 spec:
   type: openapi
   lifecycle: production
-  owner: user:guest
+  owner: group:Team-A
   system: public-distributed-app
   definition:
     $text: https://apiwebtdmint.azurewebsites.net/swagger/v1/swagger.json
