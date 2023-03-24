@@ -3,6 +3,9 @@ kind: API
 metadata:
   name: testing-api
   description: The Testing API
+  annotations:
+    github.com/project-slug: coolmaker2006/testingapi
+    backstage.io/techdocs-ref: dir:. 
 spec:
   type: openapi
   lifecycle: production
