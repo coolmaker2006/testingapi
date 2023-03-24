@@ -15,7 +15,7 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: user:guest
+  owner: group:Team-A
   system: public-distributed-app
   providesApis:
     - testing-api
