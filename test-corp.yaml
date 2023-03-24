@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: test-corp
+  description: A collection of all groups
+spec:
+  targets:
+    - ./org.yaml
